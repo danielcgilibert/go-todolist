@@ -1,1 +1,1 @@
-# go-todolist
+📝 TodoList CLI
